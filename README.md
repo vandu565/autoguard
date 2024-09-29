@@ -1,0 +1,2 @@
+A vehicle authentication system employing AWS services (Rekognition, Lambda, S3, DynamoDB, API Gateway) for image processing, serverless computing, and database management, which scans the vehicle's registration number and checks if the user has the necessary access.
+A project which aims to register and authenticate vehicles based on thier registration number. It contains two files which been deployed as Lambda functions on AWS.
